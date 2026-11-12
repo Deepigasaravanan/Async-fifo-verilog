@@ -1,2 +1,2 @@
 # Async-fifo-verilog
-Parameterized asynchronous FIFO in Verilog with Grsy code pointers
+Parameterized asynchronous FIFO in Verilog with Gray code pointers
